@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Permanent+Marker");
+body {
+  background-color: #eb4105;
+  font-family: "Permanent Marker", cursive, sans-serif;
+  color: white;
+  letter-spacing: 0.3em;
+}
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}

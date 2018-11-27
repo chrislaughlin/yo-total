@@ -1,0 +1,21 @@
+{
+  "name": "yo-total",
+  "version": "1.0.0",
+  "description": "Quickly total up your yo sushi bill",
+  "keywords": ["react"],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.7.0-alpha.2 - next",
+    "react-dom": "16.7.0-alpha.2 - next",
+    "react-scripts": "1.1.4",
+    "react-toastify": "4.2.0",
+    "styled-components": "3.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
